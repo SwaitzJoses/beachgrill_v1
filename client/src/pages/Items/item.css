@@ -1,0 +1,19 @@
+.item_image{
+object-fit: cover;
+height: 200px;
+width: 200px;
+border-radius: 10px;
+box-shadow: 5px 5px #d0d0d0;
+}
+
+ .item_container{
+    background-color: #e3e1e1;
+    padding: 20px;
+    border-radius: 10px;
+    margin:20px auto;
+ }
+
+ .item_link{
+   text-decoration: none;
+   color:black;
+ }

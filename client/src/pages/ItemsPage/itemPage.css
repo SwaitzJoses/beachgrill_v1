@@ -1,0 +1,12 @@
+.itemPage_container{
+  display: flex;
+  justify-content: center;
+}
+
+.itemPage_image{
+    object-fit: cover;
+min-height: 500px;
+width: 500px;
+border-radius: 10px;
+box-shadow: 5px 5px #d0d0d0;
+}
